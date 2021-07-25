@@ -1,0 +1,26 @@
+[
+    {
+        "id": "60fcd41f330df1f8197b70ca",
+        "productCode": "TEST02",
+        "productDesc": "This is an example of product description for TEST02",
+        "productPrice": 20,
+        "rating": 10,
+        "availability": false
+    },
+    {
+        "id": "60fcd53d2367d3376179ad7f",
+        "productCode": "TEST03",
+        "productDesc": "This is an example of product description for TEST03",
+        "productPrice": 16.5,
+        "rating": 8,
+        "availability": false
+    },
+    {
+        "id": "60fcd590cb8691173d1c30f2",
+        "productCode": "TEST04",
+        "productDesc": "This is an example of product description for TEST04",
+        "productPrice": 13.5,
+        "rating": 5,
+        "availability": false
+    }
+]
