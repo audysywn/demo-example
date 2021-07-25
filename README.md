@@ -15,7 +15,7 @@ Get product document based on product code
 List products by rating
 
 #### POST -> /products/save
-Save a product document
+Save a product document. For updating, document object id is required
 
 #### DELETE -> /products/delete/{productCode}
 Delete a product document
